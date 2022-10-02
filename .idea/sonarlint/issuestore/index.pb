@@ -1,0 +1,21 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+`
+0src/main/scala/Server/communication/Butler.scala,5/5/558425568b20ca1fd2a73289a1e10b2c7af9e3c0
+e
+5src/main/scala/Server/communication/DBConnector.scala,4/2/4292b56b1c37c75c91cc60318ae288975251e06d
+h
+8src/main/scala/Server/communication/MasterReceiver.scala,8/6/864fb58f9b5a6e6c7f2da1cfc37290b764ee26e9
+h
+8src/main/scala/Server/communication/MasterRegister.scala,1/3/13e1070fd19fe6a25ee054f344f58961e7573c8c
+g
+7src/main/scala/Server/communication/MasterSpammer.scala,6/e/6ef091c07d80c59a559f9d16226f1c501a9ef5df
+V
+&src/main/scala/Server/CherryMain.scala,7/4/7480c45cf7ee3c17a64d7e8ddf8dca8358be6b20
+R
+"src/main/scala/Client/Client.scala,7/e/7e9a0d7d7e9b64049fd329fa6af5aa3ad51188af
+9
+	build.sbt,7/4/74b95601c3a6d9d565cd312fac64094ec0f9d847
+R
+"src/main/scala/Server/Server.scala,6/e/6ed8a8003168f9b25f5a8c4a412da1faef5682f4
